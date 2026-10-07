@@ -19,6 +19,9 @@ The GeoFly Lab conducted a high-resolution UAV survey of Serpent Mound on **Marc
 
 These products enable precise measurement of the effigy's dimensions, slope, and condition, and provide a baseline for monitoring change over time.
 
+![Drone2Map processing preview showing UAV flight path and image overlap over Serpent Mound](flight-path.webp)
+*Drone2Map processing preview: flight path and image overlap over the Serpent Mound site. The serpent effigy's outline is visible in the mowed grass at left.*
+
 ## Data
 
 Mapping products (orthomosaic, DSM, and source imagery) are available here:
