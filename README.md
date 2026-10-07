@@ -25,6 +25,9 @@ These products enable precise measurement of the effigy's dimensions, slope, and
 ![Hillshaded DSM showing the serpent effigy's coiled form](hillshade-dsm.webp)
 *Hillshaded Digital Surface Model (DSM) derived from the UAV survey. The serpent effigy's coiled, undulating form is clearly visible in the surface relief.*
 
+![Wider-area hillshaded DSM covering the full survey extent around Serpent Mound](hillshade-dsm-wide.webp)
+*Wider-area hillshaded DSM covering the full UAV survey extent, showing the effigy in context with the surrounding bluff, drainages, and tree canopy.*
+
 ## Data
 
 Mapping products (orthomosaic, DSM, and source imagery) are available here:
