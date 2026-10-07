@@ -22,6 +22,9 @@ These products enable precise measurement of the effigy's dimensions, slope, and
 ![Drone2Map processing preview showing UAV flight path and image overlap over Serpent Mound](flight-path.webp)
 *Drone2Map processing preview: flight path and image overlap over the Serpent Mound site. The serpent effigy's outline is visible in the mowed grass at left.*
 
+![Hillshaded DSM showing the serpent effigy's coiled form](hillshade-dsm.webp)
+*Hillshaded Digital Surface Model (DSM) derived from the UAV survey. The serpent effigy's coiled, undulating form is clearly visible in the surface relief.*
+
 ## Data
 
 Mapping products (orthomosaic, DSM, and source imagery) are available here:
